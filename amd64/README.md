@@ -24,6 +24,7 @@ x86_64
 - nano 更友好的文本编辑器
 - zoneinfo-all
 - cfdisk 世界上最好用的磁盘分区工具
+- snmpd snmp
 
 ## Luci 配置
 
